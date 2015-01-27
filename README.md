@@ -13,3 +13,7 @@ http://www.magentocommerce.com/magento-connect/msp-common.html
 # Important
 Be sure to install MSP_Common magento extension **before** other MageSpecialist extension or your store could not work 
 properly.
+
+# Stable version
+
+1.0.0
