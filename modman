@@ -1,0 +1,5 @@
+app/code/community/MSP/Common   app/code/community/MSP/Common
+app/design/adminhtml/default/default/layout/msp_common.xml  app/design/adminhtml/default/default/layout/msp_common.xml
+app/design/adminhtml/default/default/template/msp_common/system/config/fieldset/hint/credits.phtml  app/design/adminhtml/default/default/template/msp_common/system/config/fieldset/hint/credits.phtml
+app/etc/modules/MSP_Common.xml  app/etc/modules/MSP_Common.xml
+skin/adminhtml/default/default/msp_common/common.css    skin/adminhtml/default/default/msp_common/common.css
