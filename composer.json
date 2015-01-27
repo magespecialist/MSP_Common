@@ -1,0 +1,16 @@
+{
+    "name": "magespecialist/msp_common",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "description": "MSP Common is a Magento 1.x extension to provide a notification system for all Magespecialist extensions",
+    "homepage": "https://github.com/magespecialist/MSP_Common",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors":[
+        {
+            "name":"MageSpecialist",
+            "email":"info@magespecialist.it"
+        }
+    ]
+}
