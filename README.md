@@ -5,8 +5,8 @@ notification feature it provides news, alerts and notification from our blog ins
 MSP Common is a **mandatory dependency** for many MageSpecialist extension, so be sure to install MSP Common **before**, 
 any other extension which requires it.
 
-Extension's development is available on github here:
-https://github.com/magespecialist/MSP_Common
+Extension's development is available on github here:  
+https://github.com/magespecialist/MSP_Common  
 while Magento stable packages are available for free via Magento Connect:  
 http://www.magentocommerce.com/magento-connect/msp-common.html
 
